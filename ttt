@@ -1,0 +1,7 @@
+//using (var rng = new RNGCryptoServiceProvider())
+//{
+//    rng.GetBytes(key);
+//    rng.GetBytes(iv);
+//}
+
+tttt
